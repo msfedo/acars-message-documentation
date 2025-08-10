@@ -68,6 +68,8 @@ S  - Sat Comm
 V - VHF ACARS available
 
 
+
+
 0EV233817V
 
 0 - ??
