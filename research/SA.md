@@ -55,7 +55,23 @@ https://globe.adsbexchange.com/?icao=A5E02D&showTrace=2024-09-29&timestamp=17276
 
 ## Acronyms / Codes
 
-...
+0LS165850V  
+
+0  - ??
+L  - Lost
+S  - Sat Comm
+165850 - Time in UTC hhmmss
+V - VHF ACARS available
+
+
+0EV233817V
+
+0 - ??
+E - Established
+V - VHF ACARS
+23381 - Time in UTC hhmmss
+V - VHF ACARS available
+
 
 ## Analysis
 
